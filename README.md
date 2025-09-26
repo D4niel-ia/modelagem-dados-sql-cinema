@@ -84,7 +84,7 @@ O repositório contém os seguintes arquivos:
 - Sessões (1) → Ingressos (N)
 - Clientes (1) → Ingressos (N)
 
-![DER Cinema](docs/der_cinema.png)
+![DER Cinema](docs/DER_Cinema.png)
 
 
 ## 🚀 Próximos Passos
